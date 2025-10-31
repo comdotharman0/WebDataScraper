@@ -1,6 +1,5 @@
-    from setuptools import setup, find_packages
-
-    setup(
+from setuptools import setup, find_packages
+setup(
         name='WebDataScraper',
         version='0.1.0',
         author='Harmanpreet Singh',
