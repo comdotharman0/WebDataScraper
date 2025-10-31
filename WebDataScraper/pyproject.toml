@@ -24,12 +24,12 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/my-awesome-package"
+Homepage = "https://github.com/comdotharman0/WebDataScraper"
 Documentation = "https://my-awesome-package.readthedocs.io/"
-Repository = "https://github.com/yourusername/my-awesome-package"
+Repository = "https://github.com/comdotharman0/WebDataScraper"
 
 [project.scripts]
-my-command = "my_package.module:main_function"
+my-command = "WebDataScraper.module:main_function"
 
 [tool.black]
 line-length = 88
